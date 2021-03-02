@@ -14,6 +14,7 @@ The main analysis happens in 2 different parts. The first part of the analysis h
 
 ### Analysis of Outcomes Based on Launch Date
 
+![image](https://user-images.githubusercontent.com/57723459/109576978-ce667f80-7ac2-11eb-9436-bf64804445b6.png)
 
 
 ### Analysis of Outcomes Based on Goals
