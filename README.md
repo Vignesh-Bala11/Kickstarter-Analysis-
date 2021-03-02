@@ -19,6 +19,10 @@ The main analysis happens in 2 different parts. The first part of the analysis h
 
 ### Analysis of Outcomes Based on Goals
 
+![image](https://user-images.githubusercontent.com/57723459/109577052-f1912f00-7ac2-11eb-831d-4924cf465005.png)
+
+
+
 ### Challenges and Difficulties Encountered
 
 ## Results
