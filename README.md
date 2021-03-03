@@ -16,9 +16,16 @@ The main analysis happens in 2 different parts. The first part of the analysis h
 
 A pivot table and line graph was created to compare the total number of outcomes of a theatre production versus the month the theatre production came out. In order to achieve the resultant graph and pivot table filters was placed in the year and category fields. To the get the years, the YEAR() function was used to extract the year from the "Date Created Conversion" column found in the Kickstarted raw data set. Once the filters were added the outcomes column was added to the columns and values field while the "Date created Conversion" column was filtered to show just the months and than added to the rows field to obtain the pivot table which was than charted to obtain the resultant graph below. 
 
+![image](https://user-images.githubusercontent.com/57723459/109735612-0cca7000-7b91-11eb-873f-f561edf80688.png)
+
+
 ### Analysis of Outcomes Based on Goals
 
 The analysis of Outcomes based on goals focused on the subcategory "Plays" and looked at percentage of plays that were deemed succssful, fail or cancelled. In order to do this the COUNTIFS() function was used to aggregated numbers of plays of a specific outcome based on the expected goal. Once the data was aggregated and tabulated a line graph was created from the table showing the general trend of succesful, failed and cancelled plays. 
+
+![image](https://user-images.githubusercontent.com/57723459/109735628-15bb4180-7b91-11eb-9361-78f588ce730f.png)
+
+
 
 ### Challenges and Difficulties Encountered
 
